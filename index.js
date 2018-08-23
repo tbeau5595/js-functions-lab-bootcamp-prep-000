@@ -3,11 +3,11 @@ function sayhappyHolidays() {
   return "Happy holidays!"
 }
 
-function sayhappyHolidaysto() {
+function sayhappyHolidaysto(name) {
   return `Happy holidays, ${name}!`
 }
 
-function sayhappyHolidaysto() {
+function sayhappyHolidaysto(holiday,name) {
   return `Happy ${holiday}, ${name}!`
 }
 
