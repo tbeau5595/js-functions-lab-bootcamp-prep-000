@@ -1,14 +1,14 @@
 // write your code below!
 
-function sayhappyHolidays(){
+function happyHolidays(){
   return "Happy holidays!";
 }
 
-function sayhappyHolidaysto(name){
+function happyHolidaysto(name){
   return `Happy holidays, ${name}!`;
 }
 
-function sayhappyHolidaysto(holiday, name){
+function happyHolidaysto(holiday, name){
   return `Happy ${holiday}, ${name}!`;
 }
 
