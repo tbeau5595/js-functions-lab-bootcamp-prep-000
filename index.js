@@ -8,7 +8,7 @@ function sayhappyHolidaysto() {
 }
 
 function sayhappyHolidaysto() {
-  console.log(`Happy ${holiday}, ${name}`)
+  return ""
 }
 
 function holidayCountdown() {
